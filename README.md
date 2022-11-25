@@ -1,15 +1,16 @@
 # 🚀 Welcome to your new awesome project!
 
-This project has been created using **webpack-cli**, you can now run
+This project has been created using **webpack-cli**
 
-```
-npm run build
-```
+#How to get started
 
-or
+1. Check out the code base `git checkout https://github.com/kaushalpayal222/ws-challenge.git`
 
-```
-yarn build
-```
+1. Navigate inside the project using the terminal
 
-to bundle your application
+1. Install the dependencies: `npm install`
+
+1. Run a build: `npm run build``
+
+1. Start the server: `npm run serve`
+
