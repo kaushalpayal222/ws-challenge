@@ -1,4 +1,28 @@
-h1 {
-    font-size: 45px;
-    color: red;
+// Variables
+$font-stack: Mulish, sans-serif;
+
+// Styles
+header {
+    font-family: $font-stack;
 }
+
+.navigation-one {
+    display: flex;
+    justify-content: space-between;
+}
+
+.WS-navigation, order-navigation {
+    display: inline-block;
+    width: 40%;
+    height: auto;
+}
+
+.logo {
+    width: 370px;
+    height: 60px;
+    display: block;
+    margin: auto;
+    background-image: url("./assets/images/logo.jpg");
+    background-repeat: no-repeat;
+}
+
